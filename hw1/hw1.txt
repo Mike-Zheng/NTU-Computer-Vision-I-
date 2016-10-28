@@ -1,0 +1,8 @@
+1. Use B_PIX to write a program to generate
+    (a)  upside-down lena.im
+    (b)  right-side-left lena.im
+    (c)  diagonally mirrored lena.im
+2. Use Photoshop to
+    (a) rotate lena.im 45 degrees clockwise
+    (b) shrink lena.im in half
+    (c) binarize lena.im at 128 to get a binary image
