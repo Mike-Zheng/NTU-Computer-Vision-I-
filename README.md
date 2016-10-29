@@ -2,7 +2,7 @@
 # NTU Computer Vision 
 
 ## HW1
-1. Use B_PIX to write a program to generate
+1.Use B_PIX to write a program to generate
 
 (a)  upside-down lena.im
 
