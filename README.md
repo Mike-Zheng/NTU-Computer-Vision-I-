@@ -2,7 +2,8 @@
 # NTU Computer Vision 
 
 ## HW1
-1.Use B_PIX to write a program to generate
+
+### Use B_PIX to write a program to generate
 
 (a)  upside-down lena.im
 
@@ -17,3 +18,67 @@
 [diagonallyMirrored.jpg](hw1/diagonallyMirrored.jpg)
 
 ***
+
+## HW2
+
+### Write a program to generate:
+
+(a)  a binary image (threshold at 128)
+
+[thresholding.jpg](hw2/thresholding.jpg)
+
+(b)  a histogram
+
+[lena_histogram.png](hw2/lena_histogram.png)
+
+(c)  connected components (regions with + at centroid, bounding box)
+
+[connectedComponentsLena.jpg](hw2/connectedComponentsLena.jpg)
+
+***
+
+## HW3
+
+### Write a program to do histogram 
+
+(1)  Before Lena
+
+[HistogramEqualization_before.jpg](hw3/HistogramEqualization_before.jpg)
+
+(2)  Before histogram
+
+[histogram of lena](hw3/301.png)
+
+(3)  After Lena
+
+[HistogramEqualization_after.jpg](hw3/HistogramEqualization_after.jpg)
+
+(4)  After histogram
+
+[histogram of lena](hw3/302.png)
+
+***
+
+## HW4
+
+### Write programs which do binary morphological dilation, erosion, opening, closing, and hit-and-miss transform on a binary image
+
+(1)  dilation
+
+[Dilation.jpg](hw4/Dilation.jpg)
+
+(2)  erosion
+
+[Erosion.jpg](hw4/Erosion.jpg)
+
+(3)  opening
+
+[Opening.jpg](hw4/Opening.jpg)
+
+(4)  closing
+
+[Closing.jpg](hw4/Closing.jpg)
+
+(5)  hit-and-miss
+
+[hitAndMiss.jpg](hw4/hitAndMiss.jpg)
