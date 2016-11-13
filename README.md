@@ -46,3 +46,19 @@
 (5)  hit-and-miss [hitAndMiss.jpg](hw4/hitAndMiss.jpg)
 
 ***
+
+# NTU Computer Vision 
+
+## HW5
+
+### Write programs which do gray scale morphological dilation, erosion, opening, and
+closing on a gray scale image
+
+(1)  dilation_gray [Dilation_gray.jpg](hw5/Dilation_gray.jpg)
+
+(2)  erosion_gray [Erosion_gray.jpg](hw5/Erosion_gray.jpg)
+
+(3)  opening_gray [Opening_gray.jpg](hw5/Opening_gray.jpg)
+
+(4)  closing_gray [Closing_gray.jpg](hw5/Closing_gray.jpg)
+
