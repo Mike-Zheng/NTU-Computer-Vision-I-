@@ -47,7 +47,6 @@
 
 ***
 
-# NTU Computer Vision 
 
 ## HW5
 
