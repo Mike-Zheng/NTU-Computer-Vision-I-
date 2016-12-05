@@ -68,9 +68,22 @@ closing on a gray scale image
 Down sample lena.bmp from 512*512 to64*64 first.
 Sample pixels positions at each 8*8 top-left corner, so everyone will get the same answer .
 
-(1)  Yokoi connectivity number
+(1)  Yokoi connectivity number [lena.txt](hw6/lena.txt)
 
-[lena.txt](hw6/lena.txt)
+
+## HW7
+
+### Write a program to generate thinned image.
+Down sample lena.bmp from 512*512 to 64*64 first.
+Sample pixels positions at each 8*8 top-left corner, so everyone will get the same answer .
+
+(1)  thinned txt [lena.txt](hw7/lena.txt)
+
+(2)  thinned image [thinning.jpg](hw7/thinning.jpg)
+
+
+
+
 
 
 
