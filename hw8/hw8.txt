@@ -1,0 +1,1 @@
+Write the following programsGenerate additive white Gaussian noise Generate salt-and-pepper noise Run box filter (3X3, 5X5) on all noisy imagesRun median filter (3X3, 5X5) on all noisy imagesRun opening followed by closing or closing followed by openingbox filter on white Gaussian noise with amplitude = 10
